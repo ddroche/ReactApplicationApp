@@ -46,6 +46,10 @@ They will not be included in the production build so you can use them for things
 
 ## Available Scripts
 
+To install dependencies, you can run:
+
+### `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
